@@ -7,7 +7,7 @@ This repository contains C++ codes for implimentations of various algorithms in 
 clone this repository using 
 
 ```
-git clone https://github.com/vini7148/DS_FILE.git
+git clone https://github.com/vini7148/DAA_FILE.git
 cd DS_FILE
 ```
 
