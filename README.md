@@ -8,7 +8,7 @@ clone this repository using
 
 ```
 git clone https://github.com/vini7148/DAA_FILE.git
-cd DS_FILE
+cd DAA_FILE
 ```
 
 ### Prerequisites
